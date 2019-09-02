@@ -15,7 +15,7 @@
         <dependency>
             <groupId>com.ibm.db2</groupId>
             <artifactId>db2jcc</artifactId>
-            <version>3.72.44</version>
+            <version>8.1</version>
         </dependency>
     </dependencies>
 </project>
